@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=700&lines=BTech+IT+Student+%F0%9F%92%BB;C%2B%2B+%7C+DSA+%7C+Python;Learning+by+Building+%F0%9F%9A%80;Future+Software+Engineer+%F0%9F%94%A5" />
 
-<img src="https://raw.githubusercontent.com/ITIshu/ITIshu/main/assets/spider-hero-banner.svg" width="100%" alt="Original spider-hero inspired animated developer banner"/>
-
 <img src="https://raw.githubusercontent.com/ITIshu/ITIshu/main/assets/terminal-animation.svg" width="90%" alt="Animated developer terminal"/>
 
 <a href="https://github.com/ITIshu?tab=followers"><img src="https://img.shields.io/github/followers/ITIshu?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563eb"/></a>
