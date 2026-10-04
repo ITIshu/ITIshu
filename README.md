@@ -1,122 +1,139 @@
-<div align="center">
-
 # 👋 Hi, I'm Ishant
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=BTech+IT+Student+%F0%9F%92%BB;C%2B%2B+%7C+DSA+Learner+%F0%9F%A7%A0;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80;Future+Software+Engineer+%F0%9F%94%A5" alt="Typing SVG" />
+<div align="center">
 
-<p>
-  <a href="https://github.com/ITIshu"><img src="https://komarev.com/ghpvc/?username=ITIshu&label=Profile%20Views&style=for-the-badge" alt="Profile views"/></a>
-  <a href="https://github.com/ITIshu?tab=followers"><img src="https://img.shields.io/github/followers/ITIshu?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=ISHANT&fontSize=55&fontColor=ffffff&animation=fadeIn&color=0:0f172a,50:1e3a8a,100:2563eb&section=header" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=700&lines=BTech+IT+Student+%F0%9F%92%BB;C%2B%2B+%7C+DSA+%7C+Python;Learning+by+Building+%F0%9F%9A%80;Future+Software+Engineer+%F0%9F%94%A5" />
+
+<a href="https://github.com/ITIshu?tab=followers"><img src="https://img.shields.io/github/followers/ITIshu?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563eb"/></a>
+<a href="https://github.com/ITIshu"><img src="https://komarev.com/ghpvc/?username=ITIshu&label=PROFILE+VIEWS&style=for-the-badge&color=0891b2"/></a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Who Am I?
 
-🎓 **BTech Information Technology student**  
-💻 Learning **C++, DSA, Python & Git/GitHub**  
-🧠 Improving my problem-solving and coding skills every day  
-🔨 Building projects and turning ideas into working solutions  
-🎯 Goal: become a strong software engineer and build useful products
+🎓 BTech **Information Technology** student  
+💻 C++ & DSA learner  
+🐍 Exploring Python  
+🧩 Love solving coding problems  
+🛠️ Building projects while learning  
+🚀 Working toward becoming a software engineer
 
-> 💡 **Learn → Build → Break → Fix → Repeat**
+> ⚡ Don't just learn code. **Build with it.**
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ My Developer Stack
 
-<p align="center">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,linux,arduino,html,css&perline=10" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ITIshu&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITIshu&layout=compact&hide_border=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ITIshu&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🧠 What I'm Working On
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ITIshu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</div>
-
----
-
-## 🧠 Coding Journey
-
-### 📌 Currently Learning
-
-- 🟦 C++ fundamentals & STL
-- 🌳 Data Structures & Algorithms
-- 🔗 Linked Lists, Trees & Recursion
-- 🔍 Binary Search & Sliding Window
-- 🐍 Python
-- 🌐 Git & GitHub
-- ⚡ Problem solving through LeetCode
-
-### 🎯 2026 Goals
-
-- [ ] Solve more DSA problems consistently
-- [ ] Build more real-world projects
-- [ ] Improve C++ and Python
-- [ ] Learn stronger Git/GitHub workflows
-- [ ] Contribute to open source
-- [ ] Build a strong developer portfolio
+| Area | Focus |
+|---|---|
+| 🌳 **DSA** | Arrays • Linked Lists • Trees • Recursion |
+| 🔎 **Algorithms** | Binary Search • Sliding Window • Two Pointers |
+| ⚙️ **C++** | STL • OOP • Problem Solving |
+| 🐍 **Python** | Fundamentals • Projects • Automation |
+| 🌐 **GitHub** | Git • Repositories • Open Source |
 
 ---
 
-## 💻 Featured Project
+## 🏗️ Things I'm Building
 
-### 🔧 VS Code
+### 💻 [VS Code](https://github.com/ITIshu/VS-code)
 
 My coding/setup repository and a place for experiments while learning development.
 
-👉 **[View all repositories](https://github.com/ITIshu?tab=repositories)**
+<a href="https://github.com/ITIshu?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ---
 
-## 🐍 Contribution Activity
+## 📊 GitHub Dashboard
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ITIshu/ITIshu/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ITIshu&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITIshu&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ITIshu&theme=tokyonight&hide_border=true&mode=weekly" />
+
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 Developer Achievements
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITIshu&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=ITIshu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Watch My Contributions Come Alive
 
-<p align="center">
-<a href="https://github.com/ITIshu">
-<img src="https://img.shields.io/badge/GitHub-ITIshu-181717?style=for-the-badge&logo=github" />
-</a>
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/ITIshu/ITIshu/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="90%"/>
+</div>
 
 ---
 
+## 📈 Coding Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITIshu&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+---
+
+## 🎯 2026 Mission
+
 <div align="center">
 
-### ⭐ If you like my work, consider giving my repositories a star!
+| Goal | Status |
+|---|---|
+| 🧠 Master DSA fundamentals | 🔄 Learning |
+| 💻 Improve C++ | 🔄 Learning |
+| 🐍 Improve Python | 🔄 Learning |
+| 🚀 Build real projects | 🔄 Building |
+| 🌐 Learn Git/GitHub deeply | 🔄 Learning |
+| 🌍 Explore Open Source | 🎯 Next |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
+</div>
+
+---
+
+## 💬 A Little More About Me
+
+<div align="center">
+
+**Coding + Curiosity + Consistency = Growth 🚀**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=93C5FD&center=true&vCenter=true&width=600&lines=Every+bug+teaches+something.;Every+problem+makes+me+better.;Every+project+adds+experience.;The+journey+has+just+started+%F0%9F%94%A5" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+<a href="https://github.com/ITIshu"><img src="https://img.shields.io/badge/GitHub-ITIshu-181717?style=for-the-badge&logo=github"/></a>
+</div>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563eb,50:1e3a8a,100:0f172a&section=footer" width="100%"/>
 
 </div>
