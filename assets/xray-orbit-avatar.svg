@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+<defs>
+  <radialGradient id="bg"><stop stop-color="#172554"/><stop offset="1" stop-color="#020617"/></radialGradient>
+  <linearGradient id="neon"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#60a5fa"/><stop offset="1" stop-color="#d946ef"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="clip"><circle cx="250" cy="250" r="142"/></clipPath>
+  <style>
+    .orbit1{transform-origin:250px 250px;animation:spin 7s linear infinite}
+    .orbit2{transform-origin:250px 250px;animation:spin 11s linear infinite reverse}
+    .pulse{animation:pulse 2.2s ease-in-out infinite}
+    .scan{animation:scan 2.8s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes pulse{50%{opacity:.45}}
+    @keyframes scan{from{transform:translateY(-125px)}to{transform:translateY(125px)}}
+  </style>
+</defs>
+<rect width="500" height="500" rx="250" fill="url(#bg)"/>
+<g class="pulse" filter="url(#glow)" fill="none" stroke="url(#neon)">
+  <circle cx="250" cy="250" r="151" stroke-width="4"/>
+  <circle cx="250" cy="250" r="160" stroke-width="1.5" opacity=".65"/>
+</g>
+<image href="https://github.com/ITIshu.png" x="108" y="108" width="284" height="284" clip-path="url(#clip)" preserveAspectRatio="xMidYMid slice"/>
+<circle cx="250" cy="250" r="142" fill="none" stroke="#67e8f9" stroke-width="3" filter="url(#glow)"/>
+<g class="scan" clip-path="url(#clip)" opacity=".55"><path d="M108 250H392" stroke="#22d3ee" stroke-width="3"/></g>
+<g class="orbit1" filter="url(#glow)">
+  <circle cx="250" cy="75" r="8" fill="#22d3ee"/>
+  <circle cx="250" cy="75" r="3" fill="#fff"/>
+</g>
+<g class="orbit2" filter="url(#glow)">
+  <circle cx="250" cy="55" r="5" fill="#d946ef"/>
+</g>
+<g fill="none" stroke="#67e8f9" opacity=".45">
+  <ellipse cx="250" cy="250" rx="205" ry="72" stroke-width="2" transform="rotate(-20 250 250)"/>
+  <ellipse cx="250" cy="250" rx="72" ry="205" stroke-width="1.5" transform="rotate(25 250 250)"/>
+</g>
+<text x="250" y="455" text-anchor="middle" fill="#a5f3fc" font-family="monospace" font-size="15" letter-spacing="3">ISHANT // XR-DEV</text>
+</svg>
