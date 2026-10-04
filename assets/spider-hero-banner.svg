@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Spider-hero inspired developer banner for Ishant">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#070b18"/><stop offset=".5" stop-color="#101a3a"/><stop offset="1" stop-color="#190913"/></linearGradient>
+  <linearGradient id="web" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#60a5fa"/><stop offset="1" stop-color="#ef4444"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+<g fill="none" stroke="url(#web)" stroke-width="2" opacity=".55">
+<path d="M600 0v260M0 130h1200M175 0q425 130 0 260M1025 0q-425 130 0 260M0 35q600 190 1200 0M0 225q600-190 1200 0"/>
+<ellipse cx="600" cy="130" rx="190" ry="52"/><ellipse cx="600" cy="130" rx="340" ry="100"/><ellipse cx="600" cy="130" rx="510" ry="145"/>
+</g>
+<g filter="url(#glow)">
+<path d="M600 76c-20 16-29 35-29 54 0 22 12 43 29 54 17-11 29-32 29-54 0-19-9-38-29-54zm-20 32-33-25m73 25 33-25m-72 48-48-7m87 7 48-7m-75 24-38 31m65-31 38 31" fill="none" stroke="#ef4444" stroke-width="6" stroke-linecap="round"/>
+</g>
+<text x="600" y="42" text-anchor="middle" fill="#93c5fd" font-family="monospace" font-size="15" letter-spacing="5">WEB // CODE // BUILD</text>
+<text x="600" y="184" text-anchor="middle" fill="white" font-family="monospace" font-size="42" font-weight="700" letter-spacing="4">ISHANT</text>
+<text x="600" y="214" text-anchor="middle" fill="#cbd5e1" font-family="monospace" font-size="16">BTECH IT • C++ • DSA • PYTHON</text>
+<circle cx="108" cy="42" r="4" fill="#ef4444"/><circle cx="1092" cy="218" r="4" fill="#38bdf8"/>
+</svg>
