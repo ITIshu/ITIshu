@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=700&lines=BTech+IT+Student+%F0%9F%92%BB;C%2B%2B+%7C+DSA+%7C+Python;Learning+by+Building+%F0%9F%9A%80;Future+Software+Engineer+%F0%9F%94%A5" />
 
-<img src="https://raw.githubusercontent.com/ITIshu/ITIshu/main/assets/hologram-orbit.svg" width="95%" alt="Animated holographic developer graphic"/>
 
 <a href="https://github.com/ITIshu?tab=followers"><img src="https://img.shields.io/github/followers/ITIshu?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563eb"/></a>
 <a href="https://github.com/ITIshu"><img src="https://komarev.com/ghpvc/?username=ITIshu&label=PROFILE+VIEWS&style=for-the-badge&color=0891b2"/></a>
@@ -34,7 +33,6 @@
 <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,linux,arduino,html,css&perline=10" />
 </div>
 
-<img src="https://raw.githubusercontent.com/ITIshu/ITIshu/main/assets/matrix-code.svg" width="100%" alt="Animated matrix code"/>
 
 ---
 
