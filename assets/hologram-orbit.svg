@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#00e5ff"/><stop offset=".5" stop-color="#5b7cff"/><stop offset="1" stop-color="#d946ef"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .pulse{animation:p 2.4s ease-in-out infinite}.scan{animation:s 2.8s linear infinite}.orbit{transform-origin:450px 210px;animation:o 7s linear infinite}
+    @keyframes p{50%{opacity:.45}} @keyframes s{from{transform:translateY(-160px)}to{transform:translateY(160px)}} @keyframes o{to{transform:rotate(360deg)}}
+  </style>
+</defs>
+<rect width="900" height="420" rx="28" fill="#050816"/>
+<g filter="url(#glow)" class="pulse" fill="none" stroke="url(#g)">
+  <ellipse cx="450" cy="210" rx="190" ry="175" stroke-width="3"/>
+  <ellipse cx="450" cy="210" rx="240" ry="95" stroke-width="2" opacity=".7"/>
+  <ellipse cx="450" cy="210" rx="120" ry="175" stroke-width="2" opacity=".55"/>
+</g>
+<g class="orbit" fill="none" stroke="#00e5ff" opacity=".8"><ellipse cx="450" cy="210" rx="275" ry="80" stroke-width="2"/></g>
+<g filter="url(#glow)" fill="none" stroke="#67e8f9" stroke-width="4" opacity=".9">
+  <circle cx="450" cy="130" r="48"/><path d="M405 130q45-55 90 0M410 125h80M450 178v95M395 245q55-35 110 0M410 205l-38 80M490 205l38 80"/>
+</g>
+<g class="scan" filter="url(#glow)" stroke="#22d3ee" opacity=".7"><path d="M210 210H690" stroke-width="2"/></g>
+<g fill="#a5f3fc" font-family="monospace"><text x="38" y="48" font-size="20">HOLOGRAPHIC // DEVELOPER CORE</text><text x="38" y="390" font-size="16">C++ • DSA • PYTHON • GIT</text></g>
+</svg>
