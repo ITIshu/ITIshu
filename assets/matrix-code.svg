@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180">
+<rect width="900" height="180" rx="24" fill="#020617"/>
+<g fill="#22d3ee" font-family="monospace" font-size="15" opacity=".9">
+<text x="20" y="25">01</text><text x="80" y="70">C++</text><text x="145" y="35">101</text><text x="210" y="100">DSA</text><text x="275" y="45">0101</text><text x="350" y="125">git</text><text x="420" y="55">110</text><text x="480" y="95">Python</text><text x="570" y="30">001</text><text x="640" y="115">CODE</text><text x="730" y="60">1010</text><text x="820" y="140">01</text>
+</g>
+<g fill="#67e8f9" font-family="monospace" font-size="12">
+<text x="35" y="160">▾ initializing...</text><text x="260" y="160">▾ learning_mode = ON</text><text x="620" y="160">▾ build.repeat()</text>
+</g>
+</svg>
