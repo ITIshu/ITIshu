@@ -97,12 +97,35 @@ Problem solving and debugging
 [ ] Explore open-source collaboration
 ```
 
+## `06` — logout
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1900&pause=600&color=79FF9F&center=true&vCenter=true&width=650&lines=%24+git+status;Learning+in+progress.;No+shortcut+for+understanding.;$+exit+0_%E2%96%88" alt="Animated terminal sign-off"/>
+```bash
+$ whoami
+ishant
 
-<a href="https://github.com/ITIshu"><img src="https://img.shields.io/badge/CONNECT-@ITIshu-07110b?style=for-the-badge&logo=github&logoColor=79ff9f" alt="GitHub profile"/></a>
+$ echo $CURRENT_MODE
+LEARNING // BUILDING // IMPROVING
 
-<sub><code>SESSION END // SEE YOU IN THE NEXT COMMIT</code></sub>
+$ git status
+On branch main
+Your journey is still in progress.
+
+$ exit
+Session closed. See you in the next commit.
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=700&color=79FF9F&center=true&vCenter=true&width=650&lines=%24+connection+--check;GitHub+connection+ready.;%24+keep_building_%E2%96%88" alt="Animated terminal logout prompt"/>
+
+<a href="https://github.com/ITIshu"><img src="https://img.shields.io/badge/%24_connect-@ITIshu-07110b?style=for-the-badge&logo=github&logoColor=79ff9f" alt="GitHub profile"/></a>
+
+<br/>
+
+<sub><code>╭─ SESSION END ───────────────────────────────╮</code></sub>
+<br/>
+<sub><code>│ LEARN SOMETHING. SHIP SOMETHING. REPEAT.    │</code></sub>
+<br/>
+<sub><code>╰─────────────────────────────────────────────╯</code></sub>
 
 </div>
