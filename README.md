@@ -1,114 +1,118 @@
-<!-- ITISHU // HACKER TERMINAL PROFILE -->
+<!-- ITISHU // GREEN TERMINAL MODE -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:030805,30:0b2617,65:17633a,100:79ff9f&height=220&section=header&text=ITIshu&fontSize=78&fontColor=e1ffe9&fontAlignY=39&desc=ROOTED%20IN%20CURIOSITY.%20BUILT%20WITH%20CODE.&descSize=15&descAlignY=65&animation=twinkling" alt="Animated hacker terminal profile header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:001a08,55:003b16,80:08752b,100:39ff70&height=230&section=header&text=ITIshu&fontSize=80&fontColor=ccffd9&fontAlignY=38&desc=%5B%20GREEN%20TERMINAL%20%2F%2F%20SESSION%20ACTIVE%20%5D&descSize=15&descAlignY=65&animation=twinkling" alt="Green terminal header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1500&pause=400&color=79FF9F&center=true&vCenter=true&width=720&lines=%24+boot+--profile+ishant;Initializing+developer+environment...;BTech+IT+%7C+C%2B%2B+%7C+DSA+%7C+Python;Learning+%3E+Debugging+%3E+Building;System+ready._" alt="Animated terminal startup sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1400&pause=350&color=39FF70&center=true&vCenter=true&width=720&lines=%24+boot+ITIshu;Loading+developer+profile...;BTech+IT+%7C+C%2B%2B+%7C+DSA+%7C+Python;Compile.+Debug.+Repeat.;%5B+SYSTEM+READY+%5D" alt="Green terminal boot animation"/>
 
 <br/>
 
-<a href="https://github.com/ITIshu?tab=repositories"><img src="https://img.shields.io/badge/%24_ls--la-REPOSITORIES-79ff9f?style=for-the-badge&labelColor=06100a&logo=github&logoColor=79ff9f" alt="Browse repositories"/></a>
-<a href="https://github.com/ITIshu?tab=followers"><img src="https://img.shields.io/github/followers/ITIshu?style=for-the-badge&label=COLLABORATORS&color=17633a&labelColor=06100a&logo=github" alt="GitHub followers"/></a>
-<a href="https://github.com/ITIshu/ITIshu/commits/main/"><img src="https://img.shields.io/github/last-commit/ITIshu/ITIshu?display_timestamp=true&style=for-the-badge&label=LAST%20REPO%20SIGNAL&color=79ff9f&labelColor=06100a" alt="Latest repository commit timestamp"/></a>
+<a href="https://github.com/ITIshu?tab=repositories"><img src="https://img.shields.io/badge/%24_ls--la-REPOSITORIES-39ff70?style=for-the-badge&labelColor=000000&logo=github&logoColor=39ff70" alt="Repositories"/></a>
+<a href="https://github.com/ITIshu?tab=followers"><img src="https://img.shields.io/github/followers/ITIshu?style=for-the-badge&label=FOLLOWERS&color=08752b&labelColor=000000&logo=github" alt="GitHub followers"/></a>
+<a href="https://github.com/ITIshu/ITIshu/commits/main/"><img src="https://img.shields.io/github/last-commit/ITIshu/ITIshu?display_timestamp=true&style=for-the-badge&label=LAST%20COMMIT&color=39ff70&labelColor=000000" alt="Latest repository commit"/></a>
 
 </div>
 
-## `00` / live activity signal
+## `00` // SYSTEM STATUS
 
 <div align="center">
 
-<img src="https://img.shields.io/github/last-commit/ITIshu/ITIshu?style=for-the-badge&label=LATEST%20COMMIT&color=79ff9f&labelColor=06100a" alt="Latest commit badge"/>
-<img src="https://img.shields.io/badge/PRESENCE-NOT%20EXPOSED%20BY%20GITHUB-66756b?style=for-the-badge&labelColor=06100a" alt="GitHub does not expose live user presence"/>
+<img src="https://img.shields.io/badge/TERMINAL-ONLINE-39ff70?style=for-the-badge&labelColor=000000" alt="README terminal status online"/>
+<img src="https://img.shields.io/badge/REAL--TIME%20PRESENCE-NOT%20AVAILABLE-555555?style=for-the-badge&labelColor=000000" alt="GitHub does not provide real-time presence"/>
 
 </div>
 
 ```text
 ┌─ USER SESSION ───────────────────────────────────────────────┐
-│ USER       : Ishant                                           │
-│ ROLE       : BTech Information Technology student             │
-│ CURRENT    : Learning C++ / DSA / Python                      │
-│ ACTIVITY   : See latest repository commit above               │
-│ PRESENCE   : Not available through GitHub README              │
+│ USER      : Ishant                                             │
+│ ROLE      : BTech Information Technology student              │
+│ FOCUS     : C++ / DSA / Python                                 │
+│ REPO      : github.com/ITIshu/ITIshu                           │
+│ SIGNAL    : Latest commit badge above                          │
+│ PRESENCE  : GitHub README cannot detect online/offline status  │
 └───────────────────────────────────────────────────────────────┘
 ```
 
-> **Activity indicator note:** the commit badge reflects the latest repository update when its badge cache refreshes. It does not detect whether I'm online, typing, or actively coding right now.
+`NOTE:` The commit badge updates when its external cache refreshes. It tracks repository activity, not whether I'm currently online or coding.
 
 ---
 
-## `01` / whoami
+## `01` // WHOAMI
 
 ```bash
-$ whoami
+root@itishu:~$ whoami
 Ishant
 
-$ cat profile.txt
+root@itishu:~$ cat profile.txt
 BTech Information Technology student
-Learning by writing code, solving problems, and building projects.
-Interested in understanding the logic behind the solution.
+Learning by solving problems and building projects.
+Focused on understanding the logic, not just copying code.
 
-$ echo $MINDSET
-Learn it. Try it. Debug it. Understand it.
+root@itishu:~$ echo $MOTTO
+LEARN // DEBUG // IMPROVE
 ```
 
-## `02` / current process
+## `02` // TOOLCHAIN
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode&theme=dark&perline=6" alt="C, C++, Python, Git, GitHub, and VS Code icons"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode&theme=dark&perline=6" alt="C, C++, Python, Git, GitHub, and VS Code icons"/>
 
 </div>
 
 ```bash
-$ cat current_focus.txt
-[RUNNING] C++ and object-oriented programming
-[RUNNING] Data Structures & Algorithms
+root@itishu:~$ cat skills.log
+[LEARNING] C and C++
+[LEARNING] Object-Oriented Programming
+[IN PROGRESS] Data Structures & Algorithms
 [LEARNING] Python fundamentals
-[REPEATING] Practice -> Debug -> Improve
+[TOOLS] Git / GitHub / VS Code
 ```
 
 <table>
-<tr><td><code>LANGUAGES</code></td><td>C · C++ · Python (learning)</td></tr>
-<tr><td><code>TOOLS</code></td><td>Git · GitHub · VS Code</td></tr>
-<tr><td><code>WORKFLOW</code></td><td>Write → Compile → Debug → Learn</td></tr>
+<tr><td><code>INPUT</code></td><td>Curiosity + practice</td></tr>
+<tr><td><code>PROCESS</code></td><td>Write → Compile → Debug</td></tr>
+<tr><td><code>OUTPUT</code></td><td>Knowledge and useful projects</td></tr>
 </table>
 
 ---
 
-## `03` / project directory
+## `03` // PROJECT DIRECTORY
 
 <div align="center">
 
 <a href="https://github.com/ITIshu/VS-code">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITIshu&repo=VS-code&theme=chartreuse-dark&hide_border=true&bg_color=050d08&title_color=79ff9f&icon_color=4ade80&text_color=d7fbe2" alt="VS-code repository card"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITIshu&repo=VS-code&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39ff70&icon_color=00cc55&text_color=caffd5" alt="VS-code repository card"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/ITIshu?tab=repositories"><img src="https://img.shields.io/badge/%24_find-ALL_REPOSITORIES-163d28?style=for-the-badge&logo=github&logoColor=79ff9f" alt="Explore all repositories"/></a>
+<a href="https://github.com/ITIshu?tab=repositories"><img src="https://img.shields.io/badge/root%40itishu%3A~%24-ls%20repositories-003b16?style=for-the-badge&logo=github&logoColor=39ff70" alt="Browse all repositories"/></a>
 
 </div>
 
 ```bash
-$ cd ~/projects
-$ ls
-VS-code/    # Explore the repository
-# More experiments and learning projects will be added over time.
+root@itishu:~$ cd ~/projects
+root@itishu:~/projects$ ls
+VS-code/
+
+root@itishu:~/projects$ echo "More builds coming soon"
+More builds coming soon.
 ```
 
 ---
 
-## `04` / system telemetry
+## `04` // LIVE TELEMETRY
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ITIshu&show_icons=true&hide_border=true&bg_color=050d08&title_color=79ff9f&icon_color=4ade80&text_color=d7fbe2&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITIshu&layout=compact&hide_border=true&bg_color=050d08&title_color=79ff9f&text_color=d7fbe2&langs_count=5" alt="Most used programming languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ITIshu&show_icons=true&hide_border=true&bg_color=000000&title_color=39ff70&icon_color=00cc55&text_color=caffd5&rank_icon=github" alt="GitHub statistics in green terminal colors"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITIshu&layout=compact&hide_border=true&bg_color=000000&title_color=39ff70&text_color=caffd5&langs_count=5" alt="Most used programming languages in green terminal colors"/>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=ITIshu&theme=dark&hide_border=true&background=050D08&ring=79FF9F&fire=4ADE80&currStreakLabel=79FF9F" alt="GitHub contribution streak"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=ITIshu&theme=dark&hide_border=true&background=000000&ring=39FF70&fire=00CC55&currStreakLabel=39FF70&sideLabels=CAFFD5&currStreakNum=CAFFD5&sideNums=CAFFD5" alt="GitHub contribution streak in green terminal colors"/>
 
 </div>
 
@@ -124,51 +128,53 @@ VS-code/    # Explore the repository
 
 ---
 
-## `05` / task queue
+## `05` // TASK QUEUE
 
 ```text
-[ ] Strengthen C++ and object-oriented programming
-[ ] Practise DSA and explain the logic in my own words
+root@itishu:~$ tasks --list
+
+[ ] Strengthen C++ and OOP fundamentals
+[ ] Practise DSA and explain each solution independently
 [ ] Build and document more projects
 [ ] Learn Python through practical examples
 [ ] Explore open-source collaboration
 
-$ queue --status
-Tasks are in progress. One step at a time.
+root@itishu:~$ tasks --status
+WORK IN PROGRESS
 ```
 
 ---
 
-## `06` / terminal connection
+## `06` // CONNECTION & SHUTDOWN
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1700&pause=500&color=79FF9F&center=true&vCenter=true&width=680&lines=%24+git+status;Learning+in+progress.;No+shortcut+for+understanding.;%24+connect+--github+ITIshu_%E2%96%88" alt="Animated terminal connection sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1400&pause=450&color=39FF70&center=true&vCenter=true&width=680&lines=root%40itishu%3A~%24+git+status;Learning+in+progress...;No+shortcut+for+understanding.;root%40itishu%3A~%24+connect+--github" alt="Green terminal closing animation"/>
 
 </div>
 
 ```bash
-$ git status
+root@itishu:~$ git status
 On branch main
-Status: always learning
+Working tree: learning
 
-$ echo "Let's connect"
-https://github.com/ITIshu
+root@itishu:~$ open https://github.com/ITIshu
+Connection ready.
 
-$ exit
-Session closed. Keep building.
+root@itishu:~$ exit
+Session ended. Return to build.
 ```
 
 <div align="center">
 
-<a href="https://github.com/ITIshu"><img src="https://img.shields.io/badge/%24_connect-@ITIshu-06100a?style=for-the-badge&logo=github&logoColor=79ff9f" alt="Connect on GitHub"/></a>
+<a href="https://github.com/ITIshu"><img src="https://img.shields.io/badge/root%40itishu%3A~%24- CONNECT-39ff70?style=for-the-badge&labelColor=000000&logo=github&logoColor=39ff70" alt="Connect with Ishant on GitHub"/></a>
 
 <br/><br/>
 
-<sub><code>╭─ SESSION END ─────────────────────────────────╮</code></sub>
+<sub><code>╔════════════════════════════════════════════════════╗</code></sub>
 <br/>
-<sub><code>│ LEARN SOMETHING. SHIP SOMETHING. REPEAT.       │</code></sub>
+<sub><code>║ LEARN SOMETHING // SHIP SOMETHING // REPEAT        ║</code></sub>
 <br/>
-<sub><code>╰────────────────────────────────────────────────╯</code></sub>
+<sub><code>╚════════════════════════════════════════════════════╝</code></sub>
 
 </div>
