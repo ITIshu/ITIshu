@@ -18,23 +18,34 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TERMINAL-ONLINE-39ff70?style=for-the-badge&labelColor=000000" alt="README terminal status online"/>
-<img src="https://img.shields.io/badge/REAL--TIME%20PRESENCE-NOT%20AVAILABLE-555555?style=for-the-badge&labelColor=000000" alt="GitHub does not provide real-time presence"/>
+<img src="https://img.shields.io/badge/%5B%20SYSTEM%20BOOT%20%5D-ACCESS%20GRANTED-39ff70?style=for-the-badge&labelColor=000000&logo=linux&logoColor=39ff70" alt="Terminal system boot"/>
 
 </div>
 
 ```text
-┌─ USER SESSION ───────────────────────────────────────────────┐
-│ USER      : Ishant                                             │
-│ ROLE      : BTech Information Technology student              │
-│ FOCUS     : C++ / DSA / Python                                 │
-│ REPO      : github.com/ITIshu/ITIshu                           │
-│ SIGNAL    : Latest commit badge above                          │
-│ PRESENCE  : GitHub README cannot detect online/offline status  │
-└───────────────────────────────────────────────────────────────┘
+┌──[ root@itishu ]─────────────────────────────────────────────┐
+│                                                              │
+│  USER      :: Ishant                                          │
+│  ROLE      :: BTech / INFORMATION TECHNOLOGY                 │
+│  MODE      :: LEARN // DEBUG // BUILD                        │
+│  STACK     :: C++ | DSA | PYTHON                             │
+│  LOCATION  :: ~/developer/profile                            │
+│                                                              │
+│  root@itishu:~$ ./status                                      │
+│  [ OK ]  SYSTEM       : READY                                 │
+│  [ !! ]  LIVE PRESENCE: NOT DETECTABLE FROM README            │
+│                                                              │
+│  root@itishu:~$ _                                             │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-`NOTE:` The commit badge updates when its external cache refreshes. It tracks repository activity, not whether I'm currently online or coding.
+<div align="center">
+
+<img src="https://img.shields.io/badge/SESSION-LEARNING%20%2F%2F%20BUILDING-003b16?style=for-the-badge&labelColor=000000&logo=gnubash&logoColor=39ff70" alt="Learning and building session"/>
+
+</div>
+
+`SYSTEM NOTE:` GitHub README badges cannot detect real-time online/offline presence. Repository activity badges show commit activity and may update after a cache delay.
 
 ---
 
