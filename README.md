@@ -1,90 +1,75 @@
-<!-- Cyberpunk developer profile for ITIshu -->
+<!-- ISHANT.EXE | Personal developer identity -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:12001f,25:5b126e,55:be185d,80:f97316,100:facc15&height=240&section=header&text=ISHANT&fontSize=82&fontColor=ffffff&fontAlignY=38&desc=CODE%20%2F%2F%20LEARN%20%2F%2F%20REPEAT&descSize=18&descAlignY=62&animation=twinkling" alt="Cyberpunk neon Ishant profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:160b12,35:5c1635,70:b83250,100:e7a54b&height=190&section=header&text=ISHANT.exe&fontSize=68&fontColor=fff4e8&fontAlignY=48&desc=STUDENT%20%2F%2F%20BUILDER%20IN%20PROGRESS&descSize=15&descAlignY=76&animation=fadeIn" alt="ISHANT.exe — neon developer identity"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=1800&pause=500&color=FF4DCE&center=true&vCenter=true&width=720&lines=BTECH+%7C+INFORMATION+TECHNOLOGY;C%2B%2B+%2B+DSA+%2B+PYTHON;DEBUGGING+IS+PART+OF+THE+QUEST;BUILDING+SKILLS%2C+ONE+COMMIT+AT+A+TIME" alt="Animated cyberpunk developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=1600&color=F3B562&center=true&vCenter=true&width=600&lines=Curiosity+in.+Code+out.;Learning+the+why%2C+not+just+the+what.;Small+builds.+Real+progress." alt="A subtle animated personal motto"/>
 
 <br/>
 
-<a href="https://github.com/ITIshu?tab=repositories"><img src="https://img.shields.io/badge/ACCESS-REPOSITORIES-ff2e93?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
-<a href="https://github.com/ITIshu?tab=followers"><img src="https://img.shields.io/github/followers/ITIshu?style=for-the-badge&logo=github&label=CREW&color=7c3aed" alt="GitHub followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=ITIshu&style=for-the-badge&color=f97316&label=VISITORS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/BUILD-001-24131d?style=flat-square&labelColor=24131d&color=e65c72" alt="Build number 001"/>
+<img src="https://img.shields.io/badge/FOCUS-C%2B%2B%20%2F%20DSA-dc7a42?style=flat-square&labelColor=24131d" alt="Current focus C++ and DSA"/>
+<img src="https://img.shields.io/badge/MODE-LEARNING-8e5273?style=flat-square&labelColor=24131d" alt="Learning mode"/>
 
 </div>
 
 ---
 
-## <span>01 //</span> WHO AM I?
+## 01 / The human behind the commits
 
-> **PLAYER:** Ishant  
-> **CURRENT CLASS:** BTech — Information Technology  
-> **SKILL TREE:** C++ · Data Structures & Algorithms · Python  
-> **MISSION:** Learn the fundamentals, solve problems, and build useful things.
+I'm **Ishant**, a BTech Information Technology student learning how software works by writing code, solving problems, and building projects.
 
-- 🔧 Improving my programming fundamentals through practice and debugging.
-- 🧠 Learning to understand the logic behind solutions—not just copy code.
-- 🚀 Exploring software development, problem-solving, and developer tools.
-- 🎯 **Current mindset:** small steps, consistent progress.
+I care about understanding the logic—not just getting code to compile. This profile is my public build log: skills in progress, experiments, and lessons learned along the way.
+
+<details>
+<summary><b>Current status</b></summary>
+
+- **Learning:** C++, Data Structures & Algorithms, Python
+- **Practising:** problem solving, debugging, programming fundamentals
+- **Using:** Git, GitHub, VS Code
+- **Direction:** become a stronger developer by building consistently
+
+</details>
 
 ---
 
-## 02 // TECH LOADOUT
+## 02 / My toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode&theme=dark&perline=6" alt="C, C++, Python, Git, GitHub and VS Code icons"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode&theme=dark&perline=6" alt="C, C++, Python, Git, GitHub and VS Code"/>
 
 </div>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/C%2B%2B-LEARNING-ff2e93?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-IN%20PROGRESS-a855f7?style=flat-square"/>
-<img src="https://img.shields.io/badge/PYTHON-EXPLORING-f97316?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT%20%26%20GITHUB-DAILY%20TOOLS-facc15?style=flat-square&logo=github&logoColor=black"/>
-
+<sub>LEARNING IN PUBLIC · PRACTICE OVER PRETENDING · PROGRESS OVER PERFECTION</sub>
 </div>
 
 ---
 
-## 03 // CURRENT PROJECT ZONE
+## 03 / Workbench
 
 <div align="center">
 
 <a href="https://github.com/ITIshu/VS-code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITIshu&repo=VS-code&theme=radical&hide_border=true&bg_color=0d0015&title_color=ff4dce&icon_color=facc15&text_color=f3e8ff" alt="VS-code repository card"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITIshu&repo=VS-code&theme=dark&hide_border=true&bg_color=160b12&title_color=e7a54b&icon_color=e65c72&text_color=f2dfd5" alt="VS-code repository preview"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/ITIshu?tab=repositories"><img src="https://img.shields.io/badge/OPEN-ALL%20REPOSITORIES-ff2e93?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"/></a>
+<a href="https://github.com/ITIshu?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-OTHER%20BUILDS-e65c72?style=for-the-badge&logo=github&logoColor=white" alt="Explore other repositories"/></a>
 
 </div>
 
 ---
 
-## 04 // GITHUB TELEMETRY
+## 04 / Signals from GitHub
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ITIshu&show_icons=true&theme=radical&hide_border=true&bg_color=0d0015&title_color=ff4dce&icon_color=facc15&text_color=f3e8ff&rank_icon=github" alt="GitHub statistics"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITIshu&layout=compact&theme=radical&hide_border=true&bg_color=0d0015&title_color=ff4dce&text_color=f3e8ff&langs_count=6" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=ITIshu&theme=radical&hide_border=true&background=0D0015&ring=FF4DCE&fire=FACC15&currStreakLabel=FF4DCE" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 05 // ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ITIshu&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="98%" alt="GitHub profile trophies"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ITIshu&show_icons=true&hide_border=true&bg_color=160b12&title_color=e7a54b&icon_color=e65c72&text_color=f2dfd5&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITIshu&layout=compact&hide_border=true&bg_color=160b12&title_color=e7a54b&text_color=f2dfd5&langs_count=5" alt="Most used programming languages"/>
 
 </div>
 
@@ -100,36 +85,24 @@
 
 ---
 
-## 06 // ACTIVITY SCAN
+## 05 / Next things to ship
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITIshu&bg_color=0d0015&color=ff4dce&line=f97316&point=facc15&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-## 07 // NEXT QUESTS
-
-- [ ] Get stronger at C++ and object-oriented programming
-- [ ] Practise DSA and explain each solution in my own words
-- [ ] Build more projects and document what I learn
-- [ ] Learn Python through hands-on practice
-- [ ] Explore open source and collaborate with other developers
+- [ ] Strengthen C++ and object-oriented programming fundamentals
+- [ ] Solve DSA problems with an explanation I can call my own
+- [ ] Build projects and write down what I learn
+- [ ] Practise Python through small, useful programs
+- [ ] Explore open source when I have something meaningful to contribute
 
 ---
 
 <div align="center">
 
-## CONNECTION ESTABLISHED
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:160b12,50:5c1635,100:b83250&height=3&section=footer" width="100%" alt="Thin rose and burgundy divider"/>
 
-<a href="https://github.com/ITIshu"><img src="https://img.shields.io/badge/GITHUB-@ITIshu-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+**No fake expertise. Just the next commit.**
 
-<br/><br/>
+<a href="https://github.com/ITIshu"><img src="https://img.shields.io/badge/FIND%20ME-@ITIshu-24131d?style=for-the-badge&logo=github&logoColor=e7a54b" alt="Ishant on GitHub"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=1700&pause=500&color=FACC15&center=true&vCenter=true&width=650&lines=THANKS+FOR+CONNECTING%2C+NETRUNNER.;KEEP+LEARNING.+KEEP+BUILDING.;END+OF+TRANSMISSION_%E2%96%88" alt="Animated cyberpunk sign-off"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12001f,30:5b126e,65:be185d,100:f97316&height=150&section=footer&animation=twinkling" alt="Neon cyberpunk footer"/>
+<sub>ISHANT.exe · continuously under construction</sub>
 
 </div>
