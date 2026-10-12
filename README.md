@@ -84,7 +84,7 @@ My coding/setup repository and a place for experiments while learning developmen
 ## 🐍 Watch My Contributions Come Alive
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ITIshu/ITIshu/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake" width="90%"/>
+<img src="https://raw.githubusercontent.com/ITIshu/ITIshu/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="90%"/>
 </div>
 
 ---
