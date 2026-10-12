@@ -1,40 +1,58 @@
-<!-- ITISHU // TERMINAL SESSION -->
+<!-- ITISHU // HACKER TERMINAL PROFILE -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050807,35:10251a,70:1b4d32,100:79ff9f&height=210&section=header&text=ITIshu&fontSize=76&fontColor=e2ffe9&fontAlignY=40&desc=%24%20INITIALIZING%20DEVELOPER%20PROFILE...&descSize=16&descAlignY=66&animation=twinkling" alt="Animated green terminal-style profile header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:030805,30:0b2617,65:17633a,100:79ff9f&height=220&section=header&text=ITIshu&fontSize=78&fontColor=e1ffe9&fontAlignY=39&desc=ROOTED%20IN%20CURIOSITY.%20BUILT%20WITH%20CODE.&descSize=15&descAlignY=65&animation=twinkling" alt="Animated hacker terminal profile header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1600&pause=450&color=79FF9F&center=true&vCenter=true&width=700&lines=%3E+Hello%2C+world!;Initializing+Ishant...;BTech+IT+%7C+C%2B%2B+%7C+DSA+%7C+Python;Status%3A+learning%2C+building%2C+repeating_;%24+Ready+to+compile." alt="Animated terminal boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1500&pause=400&color=79FF9F&center=true&vCenter=true&width=720&lines=%24+boot+--profile+ishant;Initializing+developer+environment...;BTech+IT+%7C+C%2B%2B+%7C+DSA+%7C+Python;Learning+%3E+Debugging+%3E+Building;System+ready._" alt="Animated terminal startup sequence"/>
 
 <br/>
 
-<a href="https://github.com/ITIshu?tab=repositories"><img src="https://img.shields.io/badge/%24_ls--la-REPOSITORIES-79ff9f?style=for-the-badge&labelColor=07110b&logo=github&logoColor=79ff9f" alt="Browse repositories"/></a>
-<a href="https://github.com/ITIshu?tab=followers"><img src="https://img.shields.io/github/followers/ITIshu?style=for-the-badge&label=COLLABORATORS&color=1b4d32&labelColor=07110b&logo=github" alt="GitHub followers"/></a>
+<a href="https://github.com/ITIshu?tab=repositories"><img src="https://img.shields.io/badge/%24_ls--la-REPOSITORIES-79ff9f?style=for-the-badge&labelColor=06100a&logo=github&logoColor=79ff9f" alt="Browse repositories"/></a>
+<a href="https://github.com/ITIshu?tab=followers"><img src="https://img.shields.io/github/followers/ITIshu?style=for-the-badge&label=COLLABORATORS&color=17633a&labelColor=06100a&logo=github" alt="GitHub followers"/></a>
+<a href="https://github.com/ITIshu/ITIshu/commits/main/"><img src="https://img.shields.io/github/last-commit/ITIshu/ITIshu?display_timestamp=true&style=for-the-badge&label=LAST%20REPO%20SIGNAL&color=79ff9f&labelColor=06100a" alt="Latest repository commit timestamp"/></a>
+
+</div>
+
+## `00` / live activity signal
+
+<div align="center">
+
+<img src="https://img.shields.io/github/last-commit/ITIshu/ITIshu?style=for-the-badge&label=LATEST%20COMMIT&color=79ff9f&labelColor=06100a" alt="Latest commit badge"/>
+<img src="https://img.shields.io/badge/PRESENCE-NOT%20EXPOSED%20BY%20GITHUB-66756b?style=for-the-badge&labelColor=06100a" alt="GitHub does not expose live user presence"/>
 
 </div>
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│ USER      : Ishant                                           │
-│ ROLE      : BTech Information Technology student             │
-│ OBJECTIVE : Learn by solving problems and building projects  │
-│ STATUS    : ONLINE                                           │
-└─────────────────────────────────────────────────────────────┘
+┌─ USER SESSION ───────────────────────────────────────────────┐
+│ USER       : Ishant                                           │
+│ ROLE       : BTech Information Technology student             │
+│ CURRENT    : Learning C++ / DSA / Python                      │
+│ ACTIVITY   : See latest repository commit above               │
+│ PRESENCE   : Not available through GitHub README              │
+└───────────────────────────────────────────────────────────────┘
 ```
 
-## `01` — whoami
+> **Activity indicator note:** the commit badge reflects the latest repository update when its badge cache refreshes. It does not detect whether I'm online, typing, or actively coding right now.
 
-I’m **Ishant**, an IT student building my programming foundation one problem at a time. I’m interested in understanding how things work, debugging my mistakes, and turning what I learn into practical projects.
+---
+
+## `01` / whoami
 
 ```bash
-$ cat current_focus.txt
-C++ and OOP
-Data Structures & Algorithms
-Python fundamentals
-Problem solving and debugging
+$ whoami
+Ishant
+
+$ cat profile.txt
+BTech Information Technology student
+Learning by writing code, solving problems, and building projects.
+Interested in understanding the logic behind the solution.
+
+$ echo $MINDSET
+Learn it. Try it. Debug it. Understand it.
 ```
 
-## `02` — toolchain
+## `02` / current process
 
 <div align="center">
 
@@ -42,13 +60,23 @@ Problem solving and debugging
 
 </div>
 
+```bash
+$ cat current_focus.txt
+[RUNNING] C++ and object-oriented programming
+[RUNNING] Data Structures & Algorithms
+[LEARNING] Python fundamentals
+[REPEATING] Practice -> Debug -> Improve
+```
+
 <table>
 <tr><td><code>LANGUAGES</code></td><td>C · C++ · Python (learning)</td></tr>
-<tr><td><code>WORKFLOW</code></td><td>Write → Compile → Debug → Learn</td></tr>
 <tr><td><code>TOOLS</code></td><td>Git · GitHub · VS Code</td></tr>
+<tr><td><code>WORKFLOW</code></td><td>Write → Compile → Debug → Learn</td></tr>
 </table>
 
-## `03` — open project
+---
+
+## `03` / project directory
 
 <div align="center">
 
@@ -62,7 +90,16 @@ Problem solving and debugging
 
 </div>
 
-## `04` — system telemetry
+```bash
+$ cd ~/projects
+$ ls
+VS-code/    # Explore the repository
+# More experiments and learning projects will be added over time.
+```
+
+---
+
+## `04` / system telemetry
 
 <div align="center">
 
@@ -87,45 +124,51 @@ Problem solving and debugging
 
 ---
 
-## `05` — pending tasks
+## `05` / task queue
 
 ```text
 [ ] Strengthen C++ and object-oriented programming
-[ ] Practise DSA and explain the logic behind each solution
+[ ] Practise DSA and explain the logic in my own words
 [ ] Build and document more projects
 [ ] Learn Python through practical examples
 [ ] Explore open-source collaboration
+
+$ queue --status
+Tasks are in progress. One step at a time.
 ```
 
-## `06` — logout
+---
+
+## `06` / terminal connection
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1700&pause=500&color=79FF9F&center=true&vCenter=true&width=680&lines=%24+git+status;Learning+in+progress.;No+shortcut+for+understanding.;%24+connect+--github+ITIshu_%E2%96%88" alt="Animated terminal connection sequence"/>
+
+</div>
+
 ```bash
-$ whoami
-ishant
-
-$ echo $CURRENT_MODE
-LEARNING // BUILDING // IMPROVING
-
 $ git status
 On branch main
-Your journey is still in progress.
+Status: always learning
+
+$ echo "Let's connect"
+https://github.com/ITIshu
 
 $ exit
-Session closed. See you in the next commit.
+Session closed. Keep building.
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=700&color=79FF9F&center=true&vCenter=true&width=650&lines=%24+connection+--check;GitHub+connection+ready.;%24+keep_building_%E2%96%88" alt="Animated terminal logout prompt"/>
+<div align="center">
 
-<a href="https://github.com/ITIshu"><img src="https://img.shields.io/badge/%24_connect-@ITIshu-07110b?style=for-the-badge&logo=github&logoColor=79ff9f" alt="GitHub profile"/></a>
+<a href="https://github.com/ITIshu"><img src="https://img.shields.io/badge/%24_connect-@ITIshu-06100a?style=for-the-badge&logo=github&logoColor=79ff9f" alt="Connect on GitHub"/></a>
 
-<br/>
+<br/><br/>
 
-<sub><code>╭─ SESSION END ───────────────────────────────╮</code></sub>
+<sub><code>╭─ SESSION END ─────────────────────────────────╮</code></sub>
 <br/>
-<sub><code>│ LEARN SOMETHING. SHIP SOMETHING. REPEAT.    │</code></sub>
+<sub><code>│ LEARN SOMETHING. SHIP SOMETHING. REPEAT.       │</code></sub>
 <br/>
-<sub><code>╰─────────────────────────────────────────────╯</code></sub>
+<sub><code>╰────────────────────────────────────────────────╯</code></sub>
 
 </div>
