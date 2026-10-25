@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:001707,45:003b16,75:08752b,100:39ff70&height=230&section=header&text=ITIshu&fontSize=90&fontColor=ccffd9&fontAlignY=42&animation=twinkling" alt="Animated hybrid hacker terminal and Matrix green header"/>
 
-<img width="100%" src="https://media.giphy.com/media/oEI9uBYSzLpHRiygYU/giphy.gif" alt="Animated Matrix-style green digital rain"/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=700&pause=120&color=00FF41&center=true&vCenter=true&width=900&height=70&lines=01001000+01000001+01000011+01001011+01000101+01010010;01001101+01000001+01010100+01010010+01001001+01011000;root%40itishu%3A~%24+entering+the+green+stream...;01001001+01010100+01001001+01010011+01001000+01010101" alt="Animated Matrix-inspired green binary terminal stream"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1100&pause=300&color=39FF70&center=true&vCenter=true&width=820&lines=%24+boot+--profile+ITIshu;WAKE+UP%2C+ISHANT...;BTech+Information+Technology+student;C%2B%2B+%7C+DSA+%7C+Python;Learn.+Debug.+Build.+Repeat.;%5B+MATRIX+LINK+ESTABLISHED+%5D;%5B+READY+TO+BUILD+%5D" alt="Animated developer terminal typing text"/>
 
