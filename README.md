@@ -2,9 +2,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,35:001707,70:004d1c,100:39ff70&height=210&section=header&text=ITIshu&fontSize=86&fontColor=ccffd9&fontAlignY=42&animation=twinkling" alt="Animated green hacker terminal header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:001707,45:003b16,75:08752b,100:39ff70&height=230&section=header&text=ITIshu&fontSize=90&fontColor=ccffd9&fontAlignY=42&animation=twinkling" alt="Animated hybrid hacker terminal and Matrix green header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1800&pause=450&color=39FF70&center=true&vCenter=true&width=760&lines=%24+boot+--profile+ITIshu;BTech+Information+Technology+student;C%2B%2B+%7C+DSA+%7C+Python;Learn.+Debug.+Build.+Repeat.;%5B+READY+TO+BUILD+%5D" alt="Animated developer terminal typing text"/>
+<img width="100%" src="https://media.giphy.com/media/oEI9uBYSzLpHRiygYU/giphy.gif" alt="Animated Matrix-style green digital rain"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1100&pause=300&color=39FF70&center=true&vCenter=true&width=820&lines=%24+boot+--profile+ITIshu;WAKE+UP%2C+ISHANT...;BTech+Information+Technology+student;C%2B%2B+%7C+DSA+%7C+Python;Learn.+Debug.+Build.+Repeat.;%5B+MATRIX+LINK+ESTABLISHED+%5D;%5B+READY+TO+BUILD+%5D" alt="Animated developer terminal typing text"/>
 
 <br/>
 
@@ -16,10 +18,13 @@
 
 <div align="center">
 
+<sub><code>[ SYSTEM ONLINE ] // MATRIX LINK ESTABLISHED // USER: ITISHU</code></sub>
+
 </div>
+
 ---
 
-## `01 // WHOAMI`
+## `01 // WHOAMI`  <sub>🟢 IDENTITY MODULE</sub>
 
 ```bash
 root@itishu:~$ whoami
@@ -34,7 +39,7 @@ STACK     : C++ | DSA | Python
 
 > `SYSTEM MESSAGE:` Curiosity is the input. Consistent practice is the process. Better solutions are the output.
 
-## `02 // TOOLCHAIN`
+## `02 // TOOLCHAIN`  <sub>⚡ LOADED MODULES</sub>
 
 <div align="center">
 
@@ -50,7 +55,7 @@ STACK     : C++ | DSA | Python
 [TOOLS]         Git // GitHub // VS Code
 ```
 
-## `03 // PROJECT DIRECTORY`
+## `03 // PROJECT DIRECTORY`  <sub>📁 ACTIVE BUILDS</sub>
 
 <div align="center">
 
@@ -72,7 +77,7 @@ root@itishu:~/projects$ echo "More builds coming soon"
 More builds coming soon.
 ```
 
-## `04 // LIVE TELEMETRY`
+## `04 // LIVE TELEMETRY`  <sub>📡 LIVE SIGNAL</sub>
 
 <div align="center">
 
@@ -87,7 +92,7 @@ More builds coming soon.
 
 ---
 
-## `05 // CONTRIBUTION STREAM`
+## `05 // CONTRIBUTION STREAM`  <sub>🟩 DIGITAL FOOTPRINT</sub>
 
 <div align="center">
 
@@ -97,7 +102,7 @@ More builds coming soon.
 
 ---
 
-## `06 // TASK QUEUE`
+## `06 // TASK QUEUE`  <sub>⌁ NEXT OBJECTIVES</sub>
 
 ```text
 root@itishu:~$ tasks --list
@@ -112,7 +117,7 @@ root@itishu:~$ tasks --status
 WORK IN PROGRESS
 ```
 
-## `07 // CONNECT`
+## `07 // CONNECT`  <sub>🔗 OPEN CHANNEL</sub>
 
 <div align="center">
 
