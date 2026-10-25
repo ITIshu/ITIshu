@@ -16,35 +16,7 @@
 
 <div align="center">
 
-<table>
-<tr><td>
-
-```text
-┌─[ root@itishu ]───────────────────────────────[ ONLINE ]─┐
-│                                                          │
-│  $ whoami                                                │
-│  Ishant // BTech Information Technology                 │
-│                                                          │
-│  $ cat objective.txt                                     │
-│  Learn by solving problems and building projects.       │
-│                                                          │
-│  $ ls ~/focus                                            │
-│  C++/   DSA/   Python/   Projects/                       │
-│                                                          │
-│  $ ./build_future.sh                                     │
-│  [████████████████░░░░] LEARNING IN PROGRESS             │
-│                                                          │
-│  root@itishu:~$ <span>_</span>                                      │
-└──────────────────────────────────────────────────────────┘
-```
-
-</td></tr>
-</table>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1200&pause=350&color=39FF70&center=true&vCenter=true&width=700&lines=%5B+ACCESS+GRANTED+%5D;%24+initializing+developer+mode...;%24+compile+%26%26+debug+%26%26+learn;%5B+READY+FOR+THE+NEXT+CHALLENGE+%5D" alt="Animated hacker terminal commands"/>
-
 </div>
-
 ---
 
 ## `01 // WHOAMI`
