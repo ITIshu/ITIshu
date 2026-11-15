@@ -20,7 +20,7 @@
       <p><a href="https://github.com/ITIshu?tab=repositories">Browse my projects →</a></p>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img width="190" src="https://raw.githubusercontent.com/ITIshu/ITIshu/main/assets/ishant-grey-hologram-animation.gif" alt="Pixelated gray hologram portrait with moving bubbles and an X-ray scan" />
+      <img width="190" src="https://raw.githubusercontent.com/ITIshu/ITIshu/main/assets/ishant-grey-hologram-animation-loop.gif" alt="Pixelated gray hologram portrait with moving bubbles and an X-ray scan" />
       <br/><sub>Looping GIF · silver X-ray scan sweep · orbiting bubbles</sub>
     </td>
   </tr>
