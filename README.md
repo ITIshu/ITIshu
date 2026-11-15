@@ -20,8 +20,8 @@
       <p><a href="https://github.com/ITIshu?tab=repositories">Browse my projects →</a></p>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img width="190" src="https://raw.githubusercontent.com/ITIshu/ITIshu/main/assets/xray-orbit-avatar.svg" alt="Animated neon orbit avatar using Ishant's GitHub photo" />
-      <br/><sub>Orbiting photo avatar · animated scan and light trails</sub>
+      <img width="190" src="https://raw.githubusercontent.com/ITIshu/ITIshu/main/assets/xray-orbit-avatar.svg" alt="Pixelated character photo with animated bubbles and a cyan X-ray hologram scan" />
+      <br/><sub>Pixel portrait · floating bubbles · animated X-ray scan</sub>
     </td>
   </tr>
 </table>
