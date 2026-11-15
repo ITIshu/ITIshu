@@ -19,7 +19,7 @@
   <circle cx="250" cy="250" r="151" stroke-width="4"/>
   <circle cx="250" cy="250" r="160" stroke-width="1.5" opacity=".65"/>
 </g>
-<image href="https://github.com/ITIshu.png" x="108" y="108" width="284" height="284" clip-path="url(#clip)" preserveAspectRatio="xMidYMid slice"/>
+<image href="https://raw.githubusercontent.com/ITIshu/ITIshu/main/assets/ishant-pixel-hologram-avatar.png" x="108" y="108" width="284" height="284" clip-path="url(#clip)" preserveAspectRatio="xMidYMid slice"/>
 <circle cx="250" cy="250" r="142" fill="none" stroke="#67e8f9" stroke-width="3" filter="url(#glow)"/>
 <g class="scan" clip-path="url(#clip)" opacity=".55"><path d="M108 250H392" stroke="#22d3ee" stroke-width="3"/></g>
 <g class="orbit1" filter="url(#glow)">
