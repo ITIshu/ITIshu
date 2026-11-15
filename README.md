@@ -20,7 +20,7 @@
       <p><a href="https://github.com/ITIshu?tab=repositories">Browse my projects →</a></p>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img width="190" src="https://raw.githubusercontent.com/ITIshu/ITIshu/main/assets/xray-orbit-avatar.svg" alt="Pixelated character photo with animated bubbles and a cyan X-ray hologram scan" />
+      <img width="190" src="https://raw.githubusercontent.com/ITIshu/ITIshu/main/assets/ishant-bubble-xray-orbit.svg" alt="Pixelated character photo with animated bubbles and a cyan X-ray hologram scan" />
       <br/><sub>Pixel portrait · floating bubbles · animated X-ray scan</sub>
     </td>
   </tr>
