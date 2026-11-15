@@ -1,132 +1,48 @@
-<!-- ITISHU // HACKER TERMINAL PROFILE -->
+<!-- ITishu · GitHub profile README -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:001707,45:003b16,75:08752b,100:39ff70&height=230&section=header&text=ITIshu&fontSize=90&fontColor=ccffd9&fontAlignY=42&animation=twinkling" alt="Animated hybrid hacker terminal and Matrix green header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,50:172554,100:0f766e&height=190&section=header&text=Ishant&fontSize=58&fontColor=f8fafc&fontAlignY=42&desc=IT%20student%20%7C%20Learning%20by%20building&descAlignY=68&descSize=17" width="100%" alt="Ishant — IT student learning by building" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1100&pause=300&color=39FF70&center=true&vCenter=true&width=820&lines=%24+boot+--profile+ITIshu;WAKE+UP%2C+ISHANT...;BTech+Information+Technology+student;C%2B%2B+%7C+DSA+%7C+Python;Learn.+Debug.+Build.+Repeat.;%5B+MATRIX+LINK+ESTABLISHED+%5D;%5B+READY+TO+BUILD+%5D" alt="Animated developer terminal typing text"/>
-
-<br/>
-
-<a href="https://github.com/ITIshu?tab=repositories"><img src="https://img.shields.io/badge/%24_ls--la-REPOSITORIES-39ff70?style=for-the-badge&labelColor=050805&logo=github&logoColor=39ff70" alt="Browse repositories"/></a>
-<a href="https://github.com/ITIshu?tab=followers"><img src="https://img.shields.io/github/followers/ITIshu?style=for-the-badge&label=FOLLOWERS&color=08752b&labelColor=050805&logo=github" alt="GitHub followers"/></a>
-<a href="https://github.com/ITIshu/ITIshu/commits/main/"><img src="https://img.shields.io/github/last-commit/ITIshu/ITIshu?display_timestamp=true&style=for-the-badge&label=LAST%20COMMIT&color=39ff70&labelColor=050805" alt="Latest profile repository commit"/></a>
+<p>
+  <a href="https://github.com/ITIshu?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-172554?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://github.com/ITIshu?tab=followers"><img src="https://img.shields.io/github/followers/ITIshu?style=flat-square&label=Followers&color=0f766e" alt="GitHub followers" /></a>
+  <a href="https://github.com/ITIshu"><img src="https://img.shields.io/badge/Connect-GitHub-334155?style=flat-square&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
+</p>
 
 </div>
 
-<div align="center">
+## About
 
-<sub><code>[ SYSTEM ONLINE ] // MATRIX LINK ESTABLISHED // USER: ITISHU</code></sub>
+Hi, I'm **Ishant**, a BTech Information Technology student. I enjoy learning how software works, practising problem solving, and turning what I learn into projects.
 
-</div>
+- 🌱 Currently building a foundation in **C, C++, Python, and data structures**
+- 🧰 Working with **Git, GitHub, and VS Code**
+- 🎯 Focused on steady practice, clear solutions, and useful projects
 
----
+## Tech
 
-## `01 // WHOAMI`  <sub>🟢 IDENTITY MODULE</sub>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode&theme=dark" alt="C, C++, Python, Git, GitHub, and VS Code" />
+</p>
 
-```bash
-root@itishu:~$ whoami
-Ishant
-
-root@itishu:~$ cat profile.txt
-ROLE      : BTech Information Technology student
-OBJECTIVE : Learn by solving problems and building projects
-MODE      : LEARN // DEBUG // BUILD
-STACK     : C++ | DSA | Python
-```
-
-> `SYSTEM MESSAGE:` Curiosity is the input. Consistent practice is the process. Better solutions are the output.
-
-## `02 // TOOLCHAIN`  <sub>⚡ LOADED MODULES</sub>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode&theme=dark&perline=6" alt="C, C++, Python, Git, GitHub, and VS Code icons"/>
-
-</div>
-
-```text
-[LEARNING]      C / C++ fundamentals
-[LEARNING]      Object-Oriented Programming
-[IN PROGRESS]   Data Structures & Algorithms
-[LEARNING]      Python fundamentals
-[TOOLS]         Git // GitHub // VS Code
-```
-
-## `03 // PROJECT DIRECTORY`  <sub>📁 ACTIVE BUILDS</sub>
-
-<div align="center">
+## Featured project
 
 <a href="https://github.com/ITIshu/VS-code">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITIshu&repo=VS-code&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=39ff70&icon_color=00cc55&text_color=caffd5" alt="Featured VS-code repository card"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ITIshu&repo=VS-code&theme=transparent&hide_border=true&title_color=0f766e&text_color=475569&icon_color=0f766e" alt="VS-code repository" />
 </a>
 
-<br/>
-
-<a href="https://github.com/ITIshu?tab=repositories"><img src="https://img.shields.io/badge/root%40itishu%3A~%24-ls%20--all%20repositories-003b16?style=for-the-badge&logo=github&logoColor=39ff70" alt="Explore all repositories"/></a>
-
-</div>
-
-```bash
-root@itishu:~/projects$ ls
-VS-code/
-
-root@itishu:~/projects$ echo "More builds coming soon"
-More builds coming soon.
-```
-
-## `04 // LIVE TELEMETRY`  <sub>📡 LIVE SIGNAL</sub>
+## GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ITIshu&show_icons=true&hide_border=true&bg_color=050805&title_color=39ff70&icon_color=00cc55&text_color=caffd5&rank_icon=github" alt="GitHub profile statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITIshu&layout=compact&hide_border=true&bg_color=050805&title_color=39ff70&text_color=caffd5&langs_count=5" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img width="82%" src="https://streak-stats.demolab.com?user=ITIshu&theme=dark&hide_border=true&background=050805&ring=39FF70&fire=00CC55&currStreakLabel=39FF70&sideLabels=CAFFD5&currStreakNum=CAFFD5&sideNums=CAFFD5" alt="GitHub contribution streak"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ITIshu&show_icons=true&hide_border=true&theme=transparent&title_color=0f766e&text_color=475569&icon_color=0f766e" alt="GitHub statistics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITIshu&layout=compact&hide_border=true&theme=transparent&title_color=0f766e&text_color=475569" alt="Most used languages" />
 
 </div>
 
 ---
 
-## `05 // CONTRIBUTION STREAM`  <sub>🟩 DIGITAL FOOTPRINT</sub>
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/ITIshu/ITIshu/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%"/>
-
-</div>
-
----
-
-## `06 // TASK QUEUE`  <sub>⌁ NEXT OBJECTIVES</sub>
-
-```text
-root@itishu:~$ tasks --list
-
-[ ] Strengthen C++ and OOP fundamentals
-[ ] Practise DSA and explain solutions independently
-[ ] Build and document more projects
-[ ] Learn Python through practical examples
-[ ] Explore open-source collaboration
-
-root@itishu:~$ tasks --status
-WORK IN PROGRESS
-```
-
-## `07 // CONNECT`  <sub>🔗 OPEN CHANNEL</sub>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1600&pause=500&color=39FF70&center=true&vCenter=true&width=720&lines=root%40itishu%3A~%24+git+status;Learning+in+progress...;No+shortcut+for+understanding.;root%40itishu%3A~%24+connect+--github" alt="Animated terminal sign-off"/>
-
-<br/>
-
-<a href="https://github.com/ITIshu"><img src="https://img.shields.io/badge/%24_connect-ITIshu-39ff70?style=for-the-badge&labelColor=050805&logo=github&logoColor=39ff70" alt="Connect on GitHub"/></a>
-
-<br/><br/>
-
-<sub><code>LEARN SOMETHING // SHIP SOMETHING // REPEAT</code></sub>
-
+  <sub><strong>Learn · Build · Improve</strong></sub>
 </div>
